@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/Barsik008/PossumBot.git"
   },
+  "engines": {
+    "node": "10.12.3"
+  },
   "author": "barsik",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2"
+
   },
   "bugs": {
     "url": "https://github.com/Barsik008/PossumBot/issues"
